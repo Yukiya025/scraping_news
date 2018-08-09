@@ -12,7 +12,7 @@
  
 
 # このプログラムの使い方
-1. あなたがお使いのPythonのバージョンを確認します。Python2であればOK! Python3であれば多少のエラーが出ます (urllib周辺)。
+1. あなたがお使いのPythonのバージョンを確認します。Python2であればOK! Python3であれば多少のエラーが出るかも? (urllib周辺)。
 2. BeautifulSoup4.6.0をインストールします。
 3. python_ex289_ex293.pyを実行してください。
  
